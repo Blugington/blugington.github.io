@@ -1,4 +1,4 @@
-body {background-color: #00d5e1;}
+body {background-color: #ff5353;}
 .font {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
@@ -11,7 +11,7 @@ body {background-color: #00d5e1;}
 }
 
 .topnav {
-background-color: #009ea7;
+background-color: #e10000;
 overflow: hidden;
 }
 
@@ -30,6 +30,6 @@ color: black;
 }
 
 .topnav a.active {
-background-color: #3ff5ff;
+background-color: #ffa9a9;
 color: white;
 }
