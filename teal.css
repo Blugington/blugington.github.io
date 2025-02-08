@@ -1,8 +1,10 @@
 body {background-color: #00d5e1;}
+
 .font {
     font-family: "Rubik", serif;
     color: white;
 }
+
 .title {
     text-align: center;
     font-size: 50px;
@@ -30,4 +32,13 @@ color: black;
 .topnav a.active {
 background-color: #3ff5ff;
 color: white;
+}
+
+.box {
+    border-radius: 25px;
+    background-color: #009ea7;
+    padding: 20px; 
+    width: 200px;
+    height: 250px;
+    text-align: center;
 }

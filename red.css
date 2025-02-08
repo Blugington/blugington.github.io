@@ -1,13 +1,13 @@
 body {background-color: #ff5353;}
+
 .font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Rubik", serif;
     color: white;
 }
+
 .title {
     text-align: center;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .topnav {
@@ -32,4 +32,13 @@ color: black;
 .topnav a.active {
 background-color: #ffa9a9;
 color: white;
+}
+
+.box {
+    border-radius: 25px;
+    background-color: #e10000;
+    padding: 20px; 
+    width: 200px;
+    height: 250px;
+    text-align: center;
 }
