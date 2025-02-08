@@ -1,13 +1,11 @@
 body {background-color: #00d5e1;}
 .font {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Rubik", serif;
     color: white;
 }
 .title {
     text-align: center;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .topnav {

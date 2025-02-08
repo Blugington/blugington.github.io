@@ -11,7 +11,7 @@ body {background-color: #ff5353;}
 }
 
 .topnav {
-background-color: #ffa9a9;
+background-color: #e10000;
 overflow: hidden;
 }
 
@@ -30,6 +30,6 @@ color: black;
 }
 
 .topnav a.active {
-background-color: #e10000;
+background-color: #ffa9a9;
 color: white;
 }
